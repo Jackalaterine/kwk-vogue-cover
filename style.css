@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+
 #main-cover {
   height:500px;
   width: 382px;
@@ -6,4 +9,66 @@
 
 body {
   background-color: darkgrey;
+}
+
+#vogue {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 110px;
+  position: absolute;
+  top: -22px;
+  left: 20px;
+  margin: 0;
+}
+
+#face {
+  position: absolute;
+  top: 100px;
+  left: 35px;
+}
+
+.slogan {
+  font-family: 'Amiri', serif;
+  font-size: 15px;
+  position: absolute;
+  top: 130px;
+  left: 10px;
+  margin:0
+}
+
+#line1 {
+
+
+  margin: 0;
+}
+
+#line2 {
+
+  margin: 0;
+}
+#line3 {
+
+  margin: 0;
+}
+
+#line4 {
+
+  margin: 0;
+}
+
+#line5 {
+
+  margin: 0;
+}
+
+#tiny {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 10px;
+  margin: 0;
+  position: absolute;
+  top: 90px;
+}
+
+.tinytext {
+  margin:0;
+
 }
